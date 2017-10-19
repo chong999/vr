@@ -1,3 +1,0 @@
-funciton adnd() {
-    var gg;
-}
