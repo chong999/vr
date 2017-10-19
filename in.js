@@ -1,0 +1,3 @@
+funciton adnd() {
+    var gg;
+}
